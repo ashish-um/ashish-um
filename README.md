@@ -1,16 +1,61 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! I'm Ashish Umrao<img src="https://media.tenor.com/LtF6lgB8FdsAAAAi/mochi-peach.gif" width="70"></h2>
 
-<!--
-**ashish-um/ashish-um** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="140" height="140" src="https://media1.tenor.com/m/pvrAvXSmwqwAAAAC/cute-boba.gif"  />
+<p><em>Student at <a href="http://iitg.ac.in">Army Institute of Technology, Pune↝</a></br>Currently Tinkering with Computers</a></em></p>
 
-Here are some ideas to get you started:
+### 🔧&nbsp; `Languages and Tools`
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+### 🤝&nbsp; `Let's Connect`
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ashish-um/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=ashish-um&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/black_j8sus" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=4159d1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+### 📊&nbsp; `My Stats`
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=ashish-um&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="154" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-um&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="154" alt="languages graph"  />
+</div>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ashish-um/ashish-um/output/snake.svg" alt="Snake animation" />
+
+###
