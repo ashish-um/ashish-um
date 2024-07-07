@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Ashish Umrao<img src="https://media.tenor.com/LtF6lgB8FdsAAAAi/mochi-peach.gif" width="70"></h2>
 
 <img align="right" width="140" height="140" src="https://media1.tenor.com/m/pvrAvXSmwqwAAAAC/cute-boba.gif"  />
-<p><em>Student at <a href="http://iitg.ac.in">Army Institute of Technology, Pune↝</a></br>Currently Tinkering with Computers</a></em></p>
+<p><em>Student at <a target="_blank" href="https://www.aitpune.com/">Army Institute of Technology, Pune↝</a></br>Currently Tinkering with Computers</a></em></p>
 
 ### 🔧&nbsp; `Languages and Tools`
 <div align="left">
