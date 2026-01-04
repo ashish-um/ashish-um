@@ -46,9 +46,8 @@
 ###
 
 ### 📊&nbsp; `My Stats`
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=ashish-um&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="154" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-um&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="154" alt="languages graph"  />
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ashish-um&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </div>
 
 ###
